@@ -1,2 +1,2 @@
-# Formulario-HP
- Formulário pra descobrir qual personagem você é em Harry Potter
+# tabuada-js
+ Tabuada montada utilizando JS
